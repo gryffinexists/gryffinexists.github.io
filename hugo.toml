@@ -1,4 +1,3 @@
-baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Gryffin's Website'
-theme = 'gallery'
+theme = ['gallery']
