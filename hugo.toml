@@ -8,20 +8,3 @@ baseURL='https://gryffinexists.github.io/hugo-site'
 [services]
     [services.googleAnalytics]
         ID = 'G-YP81TW12QF'
-defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
-[languages]
-  [languages.en]
-    disabled = false
-    languageCode = ''
-    languageDirection = ''
-    languageName = ''
-    title = ''
-    weight = 0
-  [languages.es]
-    disabled = false
-    languageCode = ''
-    languageDirection = ''
-    languageName = ''
-    title = ''
-    weight = 0
