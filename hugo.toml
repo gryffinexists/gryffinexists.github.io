@@ -1,3 +1,27 @@
 languageCode = 'en-us'
 title = 'Gryffins Website'
 theme = ['gallery']
+baseURL='https://gryffinexists.github.io/hugo-site'
+[params]
+    [params.contact]
+        email = 'gavyn.alejandro2007@gmail.com'
+[services]
+    [services.googleAnalytics]
+        ID = 'G-YP81TW12QF'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
+  [languages.es]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
