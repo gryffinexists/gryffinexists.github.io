@@ -2,9 +2,14 @@ languageCode = 'en-us'
 title = 'Website by Gryffin'
 theme = ['gallery']
 baseURL='https://gryffinexists.github.io/hugo-site'
+timeZone = 'America/New_York'
 [params]
     [params.contact]
         email = 'gavyn.alejandro2007@gmail.com'
 [services]
     [services.googleAnalytics]
         ID = 'G-YP81TW12QF'
+[[redirects]]
+  from = '/**'
+  status = 404
+  to = '/404.html'
