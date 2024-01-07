@@ -1,5 +1,5 @@
 languageCode = 'en-us'
-title = 'Gryffins Website'
+title = 'Website by Gryffin'
 theme = ['gallery']
 baseURL='https://gryffinexists.github.io/hugo-site'
 [params]
