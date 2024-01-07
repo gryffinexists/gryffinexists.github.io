@@ -1,4 +1,4 @@
 baseURL = 'https://gryffinexists.github.io/hugo-site/'
 languageCode = 'en-us'
 title = 'Gryffin Alejandro'
-theme = ["hugo-theme-gallery"]
+theme = ["gallery"]
