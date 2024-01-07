@@ -4,3 +4,4 @@ baseURL='https://gryffinexists.github.io/hugo-site'
 [params]
     [params.contact]
         email = 'gavyn.alejandro2007@gmail.com'
+
