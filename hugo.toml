@@ -1,7 +1,10 @@
 languageCode = 'en-us'
+theme= 'bridget'
 title = 'Website by Gryffin'
 baseURL='https://gryffinexists.github.io/hugo-site'
 [params]
     [params.contact]
         email = 'gavyn.alejandro2007@gmail.com'
-
+[module]
+[[module.imports]]
+path = "github.com/Sped0n/bridget"
